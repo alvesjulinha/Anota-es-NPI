@@ -1,5 +1,5 @@
 --Prática com funções
---[[
+
 function getShoppingCartTotal(subtotal, taxRate)
   total = subtotal * taxRate
   return total
@@ -45,7 +45,7 @@ end
 --
 function convertMilesToFeet(miles)
   return miles * 5280
-end]]
+end
 
 function getAreaOfRightTriangle(sideLength)
   return 0.5 * sideLength * sideLength
