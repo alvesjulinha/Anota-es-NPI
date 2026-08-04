@@ -1,7 +1,5 @@
 --string.len
-function printStringLength(input)
-print(string.len(input))
-end
+print(string.len("Hello There!"))
 
-printStringLength("Hello There!")
-
+--string.upper
+print(string.upper("hello there!"))
