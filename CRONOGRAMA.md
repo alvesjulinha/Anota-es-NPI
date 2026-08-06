@@ -7,3 +7,5 @@ Um cronogrma/relato sobre o que fiz no NPI
 04 de Agosto: Testando códigos do curso da Codecademy.
 
 05 de Agosto: Tive monitoria no pensamento computacional e terminei uma tarefa de matemática no tempo que restou.
+
+06 de Agosto: Hoje participei pela primeira vez do grupo de pesquisa Obscura. Como quis participar da equipe de design respondi um questionário e fiz algumas pixel arts para serem avaliadas.
