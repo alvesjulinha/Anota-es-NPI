@@ -5,3 +5,5 @@ Um cronogrma/relato sobre o que fiz no NPI
 03 de Agosto: Londrinense Tech, relatório e curso do Codecademy.
 
 04 de Agosto: Testando códigos do curso da Codecademy.
+
+05 de Agosto: Tive monitoria no pensamento computacional e terminei uma tarefa de matemática no tempo que restou.
